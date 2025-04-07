@@ -2,7 +2,7 @@
 
 import smtplib
 from email.mime.text import MIMEText
-from src.utils.config import EMAIL, PASSWORD  # Add these in config.py
+from src.utils.config import EMAIL, PASSWORD   
 
 def send_email_reply(to_email, body):
     msg = MIMEText(body) 
