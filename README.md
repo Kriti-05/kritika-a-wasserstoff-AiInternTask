@@ -7,11 +7,11 @@ An intelligent email assistant that fetches your Gmail messages and processes th
 ## 🛠 Features
 
 - 📥 Fetch emails from Gmail
-- 🧠 Summarize emails using LLM
+- 🧠 Summarize emails using LLM (hf-facebook/bart-large-cnn model is used)
 - ✉️ Auto-reply to important ones (here for meeting postponement)
 - 📅 Check if recent mails contain anything related to meeting or any schedule
 - 🔔 Notify on Slack
-- 🌐 Use web search for context
+- 🌐 Use web search for context (trigerred when context is a question, uses SERP API)
 
 ---
 
@@ -40,7 +40,6 @@ email_assistant/
 
 ```bash
 git clone <repo-url>
-cd email_assistant
 pip install -r requirements.txt
 ```
 
@@ -52,7 +51,7 @@ Fill config_copy.py with necessary tokens and rename as config.py.
 
 ## 🚀 Running the Assistant
 
-Navigate to the email_assistant directory and run:
+Run:
 
 ```bash
 python -m src.controllers.main
