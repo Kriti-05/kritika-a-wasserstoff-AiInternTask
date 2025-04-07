@@ -21,7 +21,7 @@ def add_calendar_events(emails):
 
     meeting_keywords = ["meeting", "schedule", "call", "appointment"]
 
-    # Updated regex patterns
+    # regex patterns to match date (DD MM YYYY) and time
     date_pattern = r"\b\d{1,2}(?:st|nd|rd|th)?\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)[,]?\s+\d{4}|\b\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\b"
     time_pattern = r"\b\d{1,2}(?::\d{2})?\s?(?:am|pm|AM|PM)\b"
 
