@@ -76,8 +76,7 @@ The assistant has three main components:
 
 ### 🖼 Architecture Diagram
 
-![Architecture Diagram](docs/architecture.png)  
-> *(Replace with your actual image or use a draw.io export)*
+![Architecture Diagram](Architecture.drawio.png)  
 
 ---
 
