@@ -1,0 +1,32 @@
+[
+    {
+        "sender": "keerthi a <kiachi1811@gmail.com>",
+        "subject": "Fwd: Meeting is postponed",
+        "body": "---------- Forwarded message ---------\r\nFrom: keerthi a \r\nDate: Mon, 7 Apr 2025 at 00:09\r\nSubject: Meeting is postponed\r\nTo: kritika.pnmaheswari@gmail.com \r\n\r\n\r\nThis is to inform that meeting has been postponed to 8th April 2025, 4 pm.\r\nExpecting your cooperation.\r\n\r\nXOXO",
+        "timestamp": "Mon, 7 Apr 2025 01:35:19 +0530"
+    },
+    {
+        "sender": "firebase-noreply@google.com",
+        "subject": "[Firebase] Client access to your Realtime Database\r\n 'emergency-app-d0ff1-default-rtdb' is expiring soon",
+        "body": "[Firebase] Client access to your Realtime Database\r\nemergency-app-d0ff1-default-rtdb is expiring in 1 day(s)\r\n[image: Firebase logo]\r\nFirebase\r\nemergency-app\r\n[Firebase] Client access to your Realtime Database\r\nemergency-app-d0ff1-default-rtdb is expiring in 1 day(s)\r\n\r\nYou chose to start developing in Test Mode, which leaves your Realtime\r\nDatabase instance completely open to the Internet. Because this choice\r\nmakes your app vulnerable to attackers, your database security rules were\r\nconfigured to stop allowing requests after the first 30 days.\r\n\r\n*In 1 day(s)*, all client requests to your Realtime Database instance will\r\nbe denied. Before that time, please update your security rules to allow\r\nyour app to function while appropriately protecting your data. Analysis is\r\nrun daily; if you've modified your rules in the past 24 hours, those\r\nchanges may not be accounted for.\r\nExpiring rules\r\nemergency-app\r\nDatabase\r\nemergency-app-d0ff1-default-rtdb\r\nLearn about security rules\r\nEdit\r\nrules\r\n\r\n\r\nIf you have any questions or feel that you've received this message in\r\nerror, please contact Firebase support\r\n\r\n\r\nThanks for using Firebase!\r\n\r\nThis email is to notify you about important service information regarding\r\nyour Firebase project\r\n\r\nManage your Alert settings\r\n\r\n[image: Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA]",
+        "timestamp": "Sun, 06 Apr 2025 12:03:42 -0700"
+    },
+    {
+        "sender": "keerthi a <kiachi1811@gmail.com>",
+        "subject": "Meeting is postponed",
+        "body": "This is to inform that meeting has been postponed to 8th April 2025, 4 pm.\r\nExpecting your cooperation.\r\n\r\nXOXO",
+        "timestamp": "Mon, 7 Apr 2025 00:09:30 +0530"
+    },
+    {
+        "sender": "Google <no-reply@accounts.google.com>",
+        "subject": "Someone added you as their recovery email",
+        "body": "[image: Google]\r\nSomeone added kritika.pnmaheswari@gmail.com as their recovery email\r\n\r\nenmione123@gmail.com wants your email address to be their recovery email.\r\n\r\nIf you don\u2019t recognize this account, it\u2019s likely your email address was\r\nadded in error. You can remove your email address from that account.  \r\nDisconnect\r\nemail\r\n\r\nYou can also see security activity at\r\nhttps://myaccount.google.com/notifications\r\n\r\nEnglish\r\n\r\n| \u0420\u0443\u0441\u0441\u043a\u0438\u0439\r\n\r\n| Deutsch\r\n\r\n| \u65e5\u672c\u8a9e\r\n\r\n| espa\u00f1ol\r\n\r\n| fran\u00e7ais\r\n\r\n| \u4e2d\u6587\r\n\r\n| portugu\u00eas\r\n\r\n| italiano\r\n\r\n| polski\r\n\r\n| \u2026\r\n\r\nYou received this email to let you know about important changes to your\r\nGoogle Account and services.\r\n\u00a9 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+        "timestamp": "Sun, 06 Apr 2025 15:50:23 GMT"
+    },
+    {
+        "sender": "Google <noreply@google.com>",
+        "subject": "Google Verification Code",
+        "body": "Google Verification Code\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle received a request to use this email address to help recover Google  \r\nAccount shivaprasad.pn.personal26@gmail.com.\r\n\r\n\r\n118613\r\n\r\n\r\nEnter the code when asked for it to show that Google can reach you at this  \r\nemail address.\r\n\r\nIf you don't recognise shivaprasad.pn.personal26@gmail.com, someone  \r\nprobably gave your email address by mistake. You can safely ignore this  \r\nemail.\r\n\r\nYours sincerely,\r\nThe Google Accounts Team\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThis email can't receive replies. For more information, visit the Google  \r\nAccounts Help Centre.\r\n\u00a9 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+        "timestamp": "Sun, 06 Apr 2025 15:42:29 +0000"
+    }
+]

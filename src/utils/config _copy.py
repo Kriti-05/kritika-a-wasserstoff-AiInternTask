@@ -1,0 +1,7 @@
+EMAIL = "your email id"
+PASSWORD = "your app password"   
+IMAP_SERVER = "imap.gmail.com"
+MAILBOX = "INBOX"
+SLACK_BOT_TOKEN = "your slack bot token"
+SLACK_CHANNEL_ID = "your slack channel id" 
+SERPAPI_API_KEY = "your serp api key"
