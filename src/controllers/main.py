@@ -35,7 +35,7 @@ def main():
     print("🗓️ Syncing calendar...") # Checks if there is any meeting or schedule
     add_calendar_events(processed_emails)
     print()
-    print("📬 Generating auto-replies...") # Auto replies if mail is regarding meeting scheduling.
+    print("📬 Generating auto-replies...") # Auto replies if mail is regarding meeting postponement.
     handle_auto_replies(processed_emails)  # ✅ NEW
 
 if __name__ == "__main__":
